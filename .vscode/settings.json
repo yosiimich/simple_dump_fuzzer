@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "shared.h": "c",
+        "unistd.h": "c",
+        "forkserver.h": "c",
+        "stdio.h": "c",
+        "coverage_interface.h": "c",
+        "string_view": "c",
+        "string.h": "c",
+        "stdlib.h": "c"
+    }
+}
