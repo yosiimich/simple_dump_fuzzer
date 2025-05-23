@@ -12,9 +12,9 @@ just simple dump fuzzer
 ```
 
 ## description
-main.c -> fuzzer  
-
-forkserver.c -> forkserver injected into the target     
-
+main.c -> fuzzer
+<br />
+forkserver.c -> forkserver injected into the target
+<br />
 compiler.c -> A compiler that embeds a forkserver into the target  
-  
+<br />
